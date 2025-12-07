@@ -165,4 +165,8 @@ Only a small group stays active.
 **Analysis Tools:** PostgreSQL, 
 DBeaver, PGadmin
 
-**Visualization:** ChatGPT
+**Visualization:** PowerBi
+
+
+
+** ChatG
