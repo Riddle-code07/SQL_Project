@@ -25,9 +25,9 @@ Total revenue contribution (total_itv)
 Average spending per customer (avg_itv)
 
 
-[View Query](./Scripts/Customer_segmentation.sql)
+[View Query](./Customer_segmentation.sql)
 
-![Customer Segmentation](./Customer_Segmentation.JPG)
+![Customer Segmentation](./Images/Customer_Segmentation.JPG)
 
 
 ###  High-Value Customers (Tier 3)
@@ -83,9 +83,9 @@ Average spending per customer (avg_itv)
 - Based on acquisition year (cohort_year)
 
 
-[View Query](./Scripts/Cohort_analysis.sql)
+[View Query](./Cohort_analysis.sql)
 
-![Cohort Analysis](./Cohort_Analysis.JPG)
+![Cohort Analysis](./Images/Cohort_Analysis.JPG)
 
 ### Key Finding — Declining Customer Quality
 
@@ -129,9 +129,9 @@ This section highlights:
 
 
 
-[View Query](./Scripts/Retention_analysis.sql)
+[View Query](./Retention_analysis.sql)
 
-![Customer Retention Analysis](./Customer_Retention_Analysis.JPG)
+![Customer Retention Analysis](./Images/Customer_Retention_Analysis.JPG)
 
 ###  Key Finding — Very High Churn
 
