@@ -131,7 +131,7 @@ This section highlights:
 
 [View Query](./Retention_analysis.sql)
 
-![Customer Retention Analysis](./Images/Customer_Retention_Analysis.JPG)
+![Customer Retention Analysis](./Images/Customer_retention_analysis.JPG)
 
 ###  Key Finding — Very High Churn
 
