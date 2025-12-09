@@ -169,4 +169,3 @@ DBeaver, PGadmin
 
 
 
-** ChatG
